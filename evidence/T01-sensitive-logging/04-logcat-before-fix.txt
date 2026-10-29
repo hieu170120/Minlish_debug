@@ -1,0 +1,5 @@
+--------- beginning of main
+10-28 11:39:07.634 11348 11348 I MinLishApp: Application onCreate - Firebase auto-initialized by google-services plugin.
+10-28 11:39:08.046 11348 11348 D MinLishApp: Deep link received: minlish://reset_password/FAKE_TEST_CODE_001
+10-28 11:39:11.122 11481 11481 I MinLishApp: Application onCreate - Firebase auto-initialized by google-services plugin.
+10-28 11:39:11.590 11481 11481 D MinLishApp: Deep link received: minlish://reset_password/FAKE_TEST_CODE_001

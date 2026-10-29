@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+firebase-lab/node_modules/
+
+# Logs
+*.log
+database-debug.log
+firebase-lab/database-debug.log
+
+# Large Binaries (>100MB exceeds GitHub push limit)
+frida-server/frida-server
+*.apk
+*.zip
+
+# Synthetic Authentication Tokens / Local Credentials
+user-a-auth.json
+user-b-auth.json
+firebase-lab/user-a-auth.json
+firebase-lab/user-b-auth.json
+
+# System & OS Files
+.DS_Store
+Thumbs.db

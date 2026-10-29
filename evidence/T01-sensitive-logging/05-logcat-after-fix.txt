@@ -1,0 +1,3 @@
+--------- beginning of main
+10-28 12:45:25.962 18136 18136 I MinLishApp: Application onCreate - Firebase auto-initialized by google-services plugin.
+10-28 12:45:26.509 18136 18136 D MinLishApp: Deep link received (URI omitted)

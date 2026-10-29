@@ -1,0 +1,10 @@
+{
+  "test_user_A": {
+    "name": "Alice",
+    "secretNote": "PRIVATE_DATA_A"
+  },
+  "test_user_B": {
+    "name": "Bob",
+    "secretNote": "PRIVATE_DATA_B"
+  }
+}
