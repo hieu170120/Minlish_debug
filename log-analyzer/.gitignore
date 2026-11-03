@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+/output/
+
+# Local raw captures and credentials are not sample data.
+/raw/
+/.env
+/.env.*
+/*-auth.json
+/*service-account*.json
+/*.jks
+/*.keystore

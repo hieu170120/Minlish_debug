@@ -19,9 +19,9 @@ The Android application is attributed to [dangpham258/MinLish-AndroidApp](https:
 ## Additional engineering
 
 - Debug-only Root and Frida instrumentation diagnostics: archived 10/11 detector unit-test results and structured runtime events.
-- Python + SQLite Security Log Analyzer: standard-library validation, duplicate handling and CSV export; the private handoff verified seven tests and a four-event mixed-state sample.
+- [Python + SQLite Security Log Analyzer](log-analyzer/README.md): source, SQL queries, seven standard-library tests and a sanitized four-event mixed-state sample; supports validation, duplicate handling and CSV export.
 
-These are supporting contributions, not additional findings or evidence of attack prevention. The Quick Review at the repository root is the primary review package. Full analyzer code/tests and extension documentation remain in the separate, optional technical appendix.
+These are supporting contributions, not additional findings or evidence of attack prevention. The Quick Review at the repository root is the primary review package. Analyzer source and reproduction instructions are available in [log-analyzer/](log-analyzer/README.md). Full extension documentation remains in the separate, optional technical appendix.
 
 ## Methodology
 
